@@ -30,7 +30,7 @@ const Home = () => {
                                 <div className="card-body d-flex align-items-center pb-0">
                                     <div className="flex-fill text-truncate">
                                         <div className='d-flex justify-content-between'>
-                                            <span className="small text-uppercase fw-bold">BNB/BUSD</span>
+                                            <span className="small text-uppercase fw-bold">BNB/USDT</span>
                                             <span className='text-green'> + 7.41%</span>
                                         </div>
                                         <div className="d-flex flex-column">
@@ -58,7 +58,7 @@ const Home = () => {
                                 <div className="card-body d-flex align-items-center pb-0">
                                     <div className="flex-fill text-truncate">
                                         <div className='d-flex justify-content-between'>
-                                            <span className="small text-uppercase fw-bold">ETH/BUSD</span>
+                                            <span className="small text-uppercase fw-bold">ETH/USDT</span>
                                             <span className='text-green'> + 0.41%</span>
                                         </div>
                                         <div className="d-flex flex-column">
@@ -86,7 +86,7 @@ const Home = () => {
                                 <div className="card-body d-flex align-items-center pb-0">
                                     <div className="flex-fill text-truncate">
                                         <div className='d-flex justify-content-between'>
-                                            <span className="small text-uppercase fw-bold">SOL/BUSD</span>
+                                            <span className="small text-uppercase fw-bold">SOL/USDT</span>
                                             <span className='text-green'> + 4.41%</span>
                                         </div>
                                         <div className="d-flex flex-column">
@@ -114,7 +114,7 @@ const Home = () => {
                                 <div className="card-body d-flex align-items-center pb-0">
                                     <div className="flex-fill text-truncate">
                                         <div className='d-flex justify-content-between'>
-                                            <span className="small text-uppercase fw-bold">ADA/BUSD</span>
+                                            <span className="small text-uppercase fw-bold">ADA/USDT</span>
                                             <span className='text-green'> + 2.41%</span>
                                         </div>
                                         <div className="d-flex flex-column">
